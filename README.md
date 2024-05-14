@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**lucasfreirec/lucasfreirec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas, a computer engineering student living in Natal, Rio Grande do Norte, Brazil.
 
-Here are some ideas to get you started:
+## Projects 
+* Currently involved in a scientific initiation project to implement and evaluate the performance of the VTTS Algorithm in GNSS-SDR. Our aim is to integrate VTTS into an open-source receiver for a realistic assessment of its advantages and disadvantages compared to other GPS signal acquisition methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Courses
+
+* 
+
+
+## Contact Me
+
+You can reach me at <lucasfreirecosta@hotmail.com>.
