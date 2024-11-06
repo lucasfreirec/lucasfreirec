@@ -8,7 +8,7 @@ I'm Lucas, a computer engineering student living in Natal, Rio Grande do Norte, 
 ## Interests
 
 * High Performance Computing
-* Algorithm analysis
+* Parallel Algorithms and Architectures
 
 ## Contact Me
 
