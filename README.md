@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Lucas, a computer engineering student living in Palaiseau, France.
+I'm Lucas, a computer engineering student living in Paris, France.
 
 ## Undergraduate Research Projects
 * Implementation and evaluation of the performance of the **VTTS Algorithm** in **GNSS-SDR**. Our aim is to integrate VTTS into an open-source receiver for a realistic assessment of its advantages and disadvantages compared to other GPS signal acquisition methods.
