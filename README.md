@@ -1,13 +1,3 @@
-# Hello!
-
-I'm Lucas, a computer engineering student living in Paris, France.
-
-## Interests
-
-* High Performance Computing
-* Parallel Algorithms
-* Distributed Systems
-
-## Contact Me
-
-You can reach me at <lucas.freirecosta@telecom-paris.fr>.
+- 👋 Hi, I’m Lucas
+- I’m interested in parallel algorithms and distributed systems
+- lucas.freirecosta@telecom-paris.fr
