@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lucas
-- I'm currently pursuing a master's degree in Parallel and Distributed Systemas at the Polytechnic Institute of Paris
+- I'm currently pursuing a Master of Computer Science in Parallel and Distributed Systemas at the Polytechnic Institute of Paris
 - I’m interested in parallel algorithms and distributed systems
 - lucas.freirecosta@telecom-paris.fr
